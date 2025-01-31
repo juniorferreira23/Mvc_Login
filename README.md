@@ -2,6 +2,7 @@
 
 ## 📖 Descrição
 Este projeto foi desenvolvido para praticar o uso de hashes para armazenamento seguro de senhas em um banco de dados MySQL
+
 ---
 
 ## 💻 Tecnologias
