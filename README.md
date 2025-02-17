@@ -30,7 +30,7 @@ Este projeto foi desenvolvido para praticar o uso de hashes para armazenamento s
 ### 🔄 Clonar o Repositório
 Abra seu terminal (Bash, PowerShell ou CMD) e execute o seguinte comando:
 ```bash
-git clone https://github.com/juniorferreira23/Sistema_de_Login.git
+git clone https://github.com/juniorferreira23/Mvc_Login.git
 ```
 
 ### 🌐 Criando ambiente vitual
